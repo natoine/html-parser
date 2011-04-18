@@ -1,0 +1,6 @@
+This project was created during my phd.
+I used it in the development of my application for the ANR Intermed Project : 
+http://intermed.csregistry.org/tiki-index.php
+http://intermed.lirmm.fr/
+
+To provide a web page parser to get the HTML content of a WebPage and to modify it.
